@@ -1,5 +1,15 @@
 #!/bin/bash
 
+
+##################
+#Author : Sai Varma
+#date : 16-12-2024
+#version : v1
+#This is About to list the user in your github collabrations if there
+###################
+
+
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
